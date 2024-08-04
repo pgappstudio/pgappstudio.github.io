@@ -1,0 +1,31 @@
+/* page_style.css */
+
+/* Light mode */
+body {
+ background-color: #FFFFFF;
+ color: #303030;
+ padding: 6pt;
+ line-height: 1.5;
+}
+
+/* Dark mode */
+body.dark-mode {
+ background-color: #000000;
+ color: #CFCFCF;
+ padding: 6pt;
+ line-height: 1.5;
+}
+
+h3 {
+}
+
+p {
+}
+
+ul li {
+ margin-top: 8px;
+}
+
+ol li {
+ margin-top: 8px;
+}
